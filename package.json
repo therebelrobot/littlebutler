@@ -1,0 +1,19 @@
+{
+  "name": "littlebutler",
+  "version": "0.0.0",
+  "description": "",
+  "main": "littlebutler.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/therebelrobot/littlebutler.git"
+  },
+  "author": "Ozzy Haven <npm@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/littlebutler/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/littlebutler#readme"
+}
